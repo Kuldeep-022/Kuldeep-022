@@ -39,9 +39,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <br>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kuldeep-022&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuldeep-022&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kuldeep-022&theme=holi&hide_border=false)<br/>
