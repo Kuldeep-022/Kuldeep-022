@@ -8,20 +8,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/Kuldeep-022/Kuldeep-022/blob/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🌱 &nbsp; I’m currently learning React; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kuldeep-022?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kuldeep022/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1LKArmhcvE0YYXUZSxJGHnvXhdA9qNfBK/view?usp=sharing)
 
-<br>
-<br>
 <br>
 
 ### 🔨 Languages and Tools:
