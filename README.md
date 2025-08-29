@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kuldeep-022?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kuldeep022/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1LKArmhcvE0YYXUZSxJGHnvXhdA9qNfBK/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qB3DWw7h6L6QIiCIodJWyAx4-X_qBmvL/view?usp=sharing)
 
 <br>
 
